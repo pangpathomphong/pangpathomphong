@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello, I'm Pang. Glad to see you here!
+----------------------------------------------------------------
 
-<!--
-**pangpathomphong/pangpathomphong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+I am currently studying as a Technology Information School, my major is a software engineering at Mae Fah Luang University from Thailand.
 
-Here are some ideas to get you started:
+- I am a student of Mae Fah Luang University now.
+- I have study about programming languange that I learned as a C#, Java, html, css, javascript and python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ----------------------------------------------------------------
+
+  Thank you very much.
+
+  ----------------------------------------------------------------
