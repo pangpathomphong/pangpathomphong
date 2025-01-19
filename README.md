@@ -14,7 +14,7 @@
 
 - 🔭 Currently working on [**mango-bruise-area**](https://github.com/6531503110/mango-bruise-area)  
 - 🌱 Learning **React.js** to develop web applications for detecting mango bruising areas.  
-- 📫 Reach me at: **6531503110@lamduan.mfu.ac.th**  
+- 📫 Reach me at: **pathomphong814@gmail.com**  
 
 ---
 
